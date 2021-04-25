@@ -1,7 +1,5 @@
 import difflib
 
-TOKEN = "ODM1MzAzMzE0ODgzMjE1MzYw.YINe1Q.-bnodYMTYlRM8WN7CpTL0O4lOsg"
-
 from asyncio import Task
 import random
 import asyncio
